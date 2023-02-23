@@ -2,14 +2,14 @@
 
 Community maintained !Bangs Database.
 
-## What exactly is a !Bang?
+## What exactly is a `!Bang`?
 
 In case you haven't heard of the term `!Bang`, it is a way to search quickly.
 Directly takes you to search results of the specified website or your
 pre-defined default one. Let's take a closer look at the example below:
 
-1. Type "!w Banana" in address bar
-2. You've directly redirected to Banana Wikipedia page.
+1. Type "!w Banana" in the address bar
+2. You've been directly redirected to the Banana Wikipedia page.
 
 ### What exactly happened is:
 
