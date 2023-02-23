@@ -29,6 +29,6 @@
       "bang": "d",
       "homepage": "https://duckduckgo.com/",
       "search_url": "https://duckduckgo.com/?q={%query%}"
-    },
+    }
   ]
 }
