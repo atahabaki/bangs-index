@@ -13,9 +13,9 @@ pre-defined default one. Let's take a closer look at the example below:
 
 ### What exactly happened is:
 
-1. Looks through the `bangs.yaml` file to match for `!w`
+1. Looks through the `bangs.json` file to match for `!w`
 2. Founds a match, that leads to search results of Wikipedia 
-in bangs.yaml file `https://en.wikipedia.org/w/index.php?search={search}`
+in bangs.json file `https://en.wikipedia.org/w/index.php?search={search}`
 3. Replaces the `{search}` with the `Banana`
 4. Navigates to that URL.
 
