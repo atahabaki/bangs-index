@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Wikipedia",
+    "bang": "w",
+    "homepage": "https://www.wikipedia.org/",
+    "search_url": "https://en.wikipedia.org/w/index.php?search={%query%}"
+  },
+  {
+    "name": "YouTube",
+    "bang": "y",
+    "homepage": "https://www.youtube.com/",
+    "search_url": "https://www.youtube.com/results?search_query={%query%}"
+  },
+  {
+    "name": "Google",
+    "bang": "g",
+    "homepage": "https://www.google.com/",
+    "search_url": "https://www.google.com/search?q={%query%}"
+  },
+  {
+    "name": "Bing",
+    "bang": "b",
+    "homepage": "https://www.bing.com/",
+    "search_url": "https://www.bing.com/search?q={%query%}"
+  },
+  {
+    "name": "DuckDuckGo",
+    "bang": "d",
+    "homepage": "https://duckduckgo.com/",
+    "search_url": "https://duckduckgo.com/?q={%query%}"
+  },
+]
