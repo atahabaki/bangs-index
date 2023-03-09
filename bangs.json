@@ -29,6 +29,12 @@
       "bang": "d",
       "homepage": "https://duckduckgo.com/",
       "search_url": "https://duckduckgo.com/?q={%query%}"
+    },
+    {
+      "name": "Wikipedia (TR)",
+      "bang": "wt",
+      "homepage": "https://tr.wikipedia.org/",
+      "search_url": "https://tr.wikipedia.org/w/index.php?search={%query%}"
     }
   ]
 }
