@@ -35,6 +35,12 @@
       "bang": "wt",
       "homepage": "https://tr.wikipedia.org/",
       "search_url": "https://tr.wikipedia.org/w/index.php?search={%query%}"
+    },
+    {
+      "name": "Arch Linux Wiki",
+      "bang": "aw",
+      "homepage": "https://wiki.archlinux.org/",
+      "search_url": "https://wiki.archlinux.org/index.php?search={%query%}"
     }
   ]
 }
